@@ -71,3 +71,4 @@ const myTable = document.getElementById("myTable");
 table.render(myTable);
 document.getElementById("myTable").style.backgroundColor = "#e9ecef";
 
+export default table;
